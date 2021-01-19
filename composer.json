@@ -1,6 +1,6 @@
 {
     "name": "pantherastudio/emojik",
-    "description": "Analyseur d'emojis bas\u0000 sur :discord: emojis. Cette liste d'emojis doit encore \u0000tre compl\u0000t\u0000e.",
+    "description": "Analyseur d'emojis basé sur :discord: emojis. Cette liste d'emojis doit encore être complétée.",
     "type": "library",
     "license": "MIT",
     "version": "1.0",
