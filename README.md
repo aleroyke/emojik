@@ -1,0 +1,1 @@
+❤️ Analyseur d'emojis basé sur **:discord:** emojis. Cette liste d'emojis doit encore être complétée. 👌

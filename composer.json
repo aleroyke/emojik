@@ -1,0 +1,23 @@
+{
+    "name": "pantherastudio/emojik",
+    "description": "Analyseur d'emojis bas\u0000 sur :discord: emojis. Cette liste d'emojis doit encore \u0000tre compl\u0000t\u0000e.",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Antoine LE ROY",
+            "email": "hello@antoineleroy.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "PantheraStudio\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "illuminate/support": "^8.0"
+    }
+}
