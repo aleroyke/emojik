@@ -1,6 +1,6 @@
 <?php
 
-namespace Emoji;
+namespace PantheraStudio\Emojik;
 
 return [
     // Skin tone

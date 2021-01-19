@@ -1,10 +1,10 @@
 <?php
 
-namespace Emoji;
+namespace PantheraStudio\Emojik;
 
-use Emoji\Exceptions\{IsNull, UnknownEmoji, UnknownMethod, UnknownUnicode};
+use PantheraStudio\Emojik\Exceptions\{IsNull, UnknownEmoji, UnknownMethod, UnknownUnicode};
 
-class LaravelEmoji {
+class Emojik {
     public static function parse($value) {
         // Exploser la chaine de caractères en tableau php.
         $result = explode(" ", $value);

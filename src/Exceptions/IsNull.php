@@ -1,6 +1,6 @@
 <?php
 
-namespace Emoji\Exceptions;
+namespace PantheraStudio\Emojik\Exceptions;
 
 use Exception;
 

@@ -1,11 +1,11 @@
 <?php
 
-namespace Emoji\Facades;
+namespace PantheraStudio\Emojik\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Emoji extends Facade {
+class Emojik extends Facade {
     protected static function getFacadeAccessor() {
-        return 'laravel-emoji';
+        return 'emojik';
     }
 }
