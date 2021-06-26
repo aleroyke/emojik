@@ -24,5 +24,6 @@ return [
     ":person_getting_massage:" => "\u{1F486}",
     ":heart_exclamation:" => "\u{2763}\u{FE0F}",
     //-- 26/06/2021 --//
-    "sunglasses" => "\u{1F60E}"
+    "sunglasses" => "\u{1F60E}",
+    "frog" => "\u{1F438}"
 ];
