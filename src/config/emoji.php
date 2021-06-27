@@ -41,4 +41,7 @@ return [
     ":butter:" => "\u{1F9C8}",
     ":chair:" => "\u{1FA91}",
     ":deaf_person:" => "\u{1F9CF}",
+    ":diving_mask:" => "\u{1F93F}",
+    ":diya_lamp:" => "\u{1FA94}",
+    ":drop_of_blood:" => "\u{1FA78}",
 ];
